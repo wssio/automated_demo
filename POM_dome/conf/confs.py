@@ -10,4 +10,5 @@ login_path = ('../data/login.xlsx', 'Sheet1')
 # driver:选择浏览器驱动
 driver = 'Chrome'
 # login_url:配置登录网页URL
-login_url = 'http://www.duobeiyun.com/login'
+# ******出于保护前公司业务隐私的目的，故此链接已更改为错误链接******
+login_url = 'http://www.baidu.com'
