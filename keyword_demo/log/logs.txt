@@ -1,0 +1,21 @@
+
+【Excel第35行】    2021-03-09 00:03:08    主动断言错误: 未在页面找[参加讲座]这个元素    Xpath: //*[text()="参加讲座"]
+【Excel第37行】    2021-03-09 00:03:15    被动断言错误: NoSuchElementException('no such element: Unable to locate element: {"method":"css selector","selector":"[id="inviteCode"]"}\n  (Session info: chrome=89.0.4389.82)', None, None)
+【Excel第38行】    2021-03-09 00:03:20    被动断言错误: TypeError('passivity_assert() takes 3 positional arguments but 5 were given')
+【Excel第35行】    2021-03-09 00:05:19    主动断言错误: 未在页面找[参加讲座]这个元素    Xpath: //*[text()="参加讲座"]
+【Excel第37行】    2021-03-09 00:05:26    被动断言错误: NoSuchElementException('no such element: Unable to locate element: {"method":"css selector","selector":"[id="inviteCode"]"}\n  (Session info: chrome=89.0.4389.82)', None, None)
+【Excel第35行】    2021-03-09 00:08:55    主动断言错误: 未在页面找[参加讲座]这个元素    Xpath: //*[text()="参加讲座"]
+【Excel第37行】    2021-03-09 00:09:03    被动断言错误: NoSuchElementException('no such element: Unable to locate element: {"method":"css selector","selector":"[id="inviteCode"]"}\n  (Session info: chrome=89.0.4389.82)', None, None)
+【Excel第38行】    2021-03-09 00:09:08    被动断言错误: TypeError('can only concatenate str (not "NoneType") to str')
+【Excel第35行】    2021-03-09 00:12:20    主动断言错误: 未在页面找[参加讲座]这个元素    Xpath: //*[text()="参加讲座"]
+【Excel第37行】    2021-03-09 00:12:27    被动断言错误: NoSuchElementException('no such element: Unable to locate element: {"method":"css selector","selector":"[id="inviteCode"]"}\n  (Session info: chrome=89.0.4389.82)', None, None)
+【Excel第35行】    2021-03-09 00:21:23    主动断言错误: 未在页面找[参加讲座]这个元素    Xpath: //*[text()="参加讲座"]
+【Excel第37行】    2021-03-09 00:21:30    被动断言错误: NoSuchElementException('no such element: Unable to locate element: {"method":"css selector","selector":"[id="inviteCode"]"}\n  (Session info: chrome=89.0.4389.82)', None, None)
+【Excel第35行】    2021-03-09 00:23:25    主动断言错误: 未在页面找[参加讲座]这个元素    Xpath: //*[text()="参加讲座"]
+【Excel第37行】    2021-03-09 00:23:32    被动断言错误: NoSuchElementException('no such element: Unable to locate element: {"method":"css selector","selector":"[id="inviteCode"]"}\n  (Session info: chrome=89.0.4389.82)', None, None)
+【Excel第35行】    2021-03-09 00:27:15    主动断言错误: 未在页面找[参加讲座]这个元素    Xpath: //*[text()="参加讲座"]
+【Excel第37行】    2021-03-09 00:27:22    被动断言错误: NoSuchElementException('no such element: Unable to locate element: {"method":"css selector","selector":"[id="inviteCode"]"}\n  (Session info: chrome=89.0.4389.82)', None, None)
+【Excel第35行】    2021-03-09 00:29:34    主动断言错误: 未在页面找[参加讲座]这个元素    Xpath: //*[text()="参加讲座"]
+【Excel第37行】    2021-03-09 00:29:41    被动断言错误: NoSuchElementException('no such element: Unable to locate element: {"method":"css selector","selector":"[id="inviteCode"]"}\n  (Session info: chrome=89.0.4389.82)', None, None)
+【Excel第35行】    2021-03-09 00:36:42    主动断言错误: 未在页面找[参加讲座]这个元素    Xpath: //*[text()="参加讲座"]
+【Excel第50行】    2021-03-09 01:04:15    主动断言错误: 未在页面找[学生列表]这个元素    Xpath: //*[text()="学生列表"]
